@@ -1,0 +1,14 @@
+dist
+dist/
+node_modules
+node_modules/
+src/index.html
+src/lib
+src/lib/
+build
+build/
+lib
+lib/
+demo/
+dev/index.html
+dev/draw.html
