@@ -1,2 +1,2 @@
 # ReactIndoorMapping
-![alt text](image.jpg)
+![alt text](image.jpg.gif)
